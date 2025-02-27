@@ -13,7 +13,7 @@ function App() {
   return (
     <>
 
-    <BrowserRouter>
+    <BrowserRouter basename="/neurovision">
     <div>
     <Routes>
     <Route exact path="/" element={<Homepage />} />

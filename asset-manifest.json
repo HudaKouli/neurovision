@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6e7e71ca.css",
+    "main.js": "/react-gh-pages/static/js/main.cba81430.js",
+    "static/js/453.d5aa5133.chunk.js": "/react-gh-pages/static/js/453.d5aa5133.chunk.js",
+    "static/media/brain.png": "/react-gh-pages/static/media/brain.309896dc6b77ca9c01b9.png",
+    "static/media/2.png": "/react-gh-pages/static/media/2.1a0f5ea14d5179c25b7a.png",
+    "static/media/1.png": "/react-gh-pages/static/media/1.5e7c87b4a42a19a568a4.png",
+    "static/media/community.png": "/react-gh-pages/static/media/community.46e47c6a98f25b0672b0.png",
+    "static/media/3.png": "/react-gh-pages/static/media/3.f8e030deb84a9a5a28e0.png",
+    "static/media/icons.png": "/react-gh-pages/static/media/icons.1a81f70b8d1253378dc9.png",
+    "static/media/neuro.png": "/react-gh-pages/static/media/neuro.e7b117d44fde5e7e02b2.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.6e7e71ca.css.map": "/react-gh-pages/static/css/main.6e7e71ca.css.map",
+    "main.cba81430.js.map": "/react-gh-pages/static/js/main.cba81430.js.map",
+    "453.d5aa5133.chunk.js.map": "/react-gh-pages/static/js/453.d5aa5133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7e71ca.css",
+    "static/js/main.cba81430.js"
+  ]
+}

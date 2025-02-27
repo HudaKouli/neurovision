@@ -1,7 +1,6 @@
 {
   "name": "neurovision",
   "version": "0.1.0",
-  "homepage": "https://HudaKouli.github.io/react-gh-pages",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -14,6 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://HudaKouli.github.io/neurovision",
   "scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build",

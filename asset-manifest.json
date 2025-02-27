@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/neurovision/static/css/main.6e7e71ca.css",
-    "main.js": "/neurovision/static/js/main.d418ab0f.js",
+    "main.css": "/neurovision/static/css/main.24d6f000.css",
+    "main.js": "/neurovision/static/js/main.13c59340.js",
     "static/js/453.d5aa5133.chunk.js": "/neurovision/static/js/453.d5aa5133.chunk.js",
     "static/media/brain.png": "/neurovision/static/media/brain.309896dc6b77ca9c01b9.png",
     "static/media/2.png": "/neurovision/static/media/2.1a0f5ea14d5179c25b7a.png",
@@ -11,12 +11,12 @@
     "static/media/icons.png": "/neurovision/static/media/icons.1a81f70b8d1253378dc9.png",
     "static/media/neuro.png": "/neurovision/static/media/neuro.e7b117d44fde5e7e02b2.png",
     "index.html": "/neurovision/index.html",
-    "main.6e7e71ca.css.map": "/neurovision/static/css/main.6e7e71ca.css.map",
-    "main.d418ab0f.js.map": "/neurovision/static/js/main.d418ab0f.js.map",
+    "main.24d6f000.css.map": "/neurovision/static/css/main.24d6f000.css.map",
+    "main.13c59340.js.map": "/neurovision/static/js/main.13c59340.js.map",
     "453.d5aa5133.chunk.js.map": "/neurovision/static/js/453.d5aa5133.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7e71ca.css",
-    "static/js/main.d418ab0f.js"
+    "static/css/main.24d6f000.css",
+    "static/js/main.13c59340.js"
   ]
 }

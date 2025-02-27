@@ -1,0 +1,99 @@
+.container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    min-height: 100vh; /* Ensure the container takes the full viewport height */
+    background-color: #fff;
+}
+
+.rectangle {
+    width: 80%; /* Adjust width as needed */
+    max-width: 1200px; /* Optional: Set a maximum width */
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally inside .rectangle */
+    justify-content: center;
+    overflow: hidden; 
+    position: relative;
+    
+
+}
+.photo1 {
+    width: 90%; /* Adjust width to fit three images in a row */
+    border-radius: 10px;
+    margin-top: 30px;
+    height:600px;
+}
+
+.first-h {
+    font-size: 1.5em;
+    color:#e5e1e1;
+    text-align: center;
+    margin-left: 0; /* Remove left margin */
+    margin-top: -500px;
+}
+
+.second-h {
+    font-size: 1.2em;
+    margin-left: 50px; /* Remove left margin */
+    margin-right: 50px;
+    text-align: center;
+    color:#0c0c0c;
+
+}
+.second-h1{
+    color:#e5e1e1;
+
+}
+
+.third-h {
+    padding: 10px 20px;
+    background-color: #D4145A;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    text-decoration: none;
+    margin-top: 20px 0;
+    border-radius: 6px;
+    margin-left: 300px;
+
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+.photo-btn {
+    padding: 10px 20px;
+    background-color: #427AE8;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: 6px;
+    margin-top: 40px;
+}
+
+
+.images-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.photo{
+    width:300px;
+    margin-right: 20px;
+}
+.photo3{
+    margin-top: -50px;
+}
+

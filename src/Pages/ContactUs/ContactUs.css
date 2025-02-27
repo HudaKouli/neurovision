@@ -1,0 +1,142 @@
+.header1{
+  margin-top:100px;
+}
+.footer{
+    background-color:rgb(217,217,216) ;
+    width: 50%;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+
+.my_form{
+    text-align: center; 
+}
+.d_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container_projects{
+        background-color: rgb(198, 198, 201);
+        margin: 50px ;
+        padding: 20px;
+        width: 300px;
+        border-radius: 15px;
+        justify-content: center;
+        margin-bottom: 40px;
+
+    }
+
+.projects_header{
+    margin-left:20px;
+    padding: 20px;
+    width:100%;
+
+    
+}
+.projects_section{
+    background-color: black;
+        width:100%;
+
+}
+
+/* form style */
+* {
+    box-sizing: border-box;
+  }
+  
+  input[type=text], select, textarea {
+    width: 200%;
+    padding: 12px;
+    border: 1px solid #0F2F70;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  input[type=email]{
+    width: 200%;
+    padding: 12px;
+    border: 1px solid #0F2F70;
+    border-radius: 4px;
+    resize: vertical;
+  }
+
+  input[type=number]{
+    width: 200%;
+    padding: 12px;
+    border: 1px solid #0F2F70 ;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    margin: 5px;
+  }
+  .fname{
+    margin:0px;
+  }
+  
+  input[type=submit] {
+    background-color: #D4145A;;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #cecbcb;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 50px;
+    padding: 50px;
+  }
+  
+  .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  .col-75 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  /* Clear floats after the columns */
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .last_section{
+    background-color: black;
+  }
+
+.btn {
+    color: azure;
+    border-radius: 8px;
+    background: var(--Main, #427AE8); 
+    border-radius: 6px;
+    width: 100px;
+    border: none;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: -20px;
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+  

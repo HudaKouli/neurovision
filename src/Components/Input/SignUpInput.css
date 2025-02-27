@@ -1,0 +1,134 @@
+.signup-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    
+}
+
+.signup-box {
+    background-color:white;
+    border-radius: 16px;
+border: 3px solid #0F2F70;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0.1, 0.1);
+    width: 100%;
+    max-width: 400px;
+    color: white;
+    
+}   
+
+.signup-heading {
+    text-align: center;
+    font-size: 1.875rem;
+    margin-bottom: 1.5rem;
+    color: #0F2F70;
+    font-weight: 500;
+
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+    color:white;
+    background-color:white ;
+    margin-right:30px;
+
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: white;
+}
+
+/* Initial state for all inputs */
+.form-group input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 3px solid0F2F70;
+    border-radius: 0.375rem;
+    background-color: white;
+    color: white;
+    outline: none;
+    transition: all 0.3sease;
+}
+
+/* Remove autofill background color */
+.form-group input:-webkit-autofill,
+.form-group input:-webkit-autofill:hover,
+.form-group input:-webkit-autofill:focus {
+    -webkit-text-fill-color: white;
+    -webkit-box-shadow: 0 0 0px 1000px #484848 inset;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.form-group input:focus {
+    border-color: #4299e1;
+    background-color: white;
+}
+
+.form-group input::placeholder {
+    color: white;
+}
+
+.error-message {
+    color: #fc8181;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+}
+
+.signup-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: white;
+    color: #484848;
+    border: #484848;
+    border-radius: 0.375rem;
+    font-weight: 1000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.signup-button:hover {
+    background-color: #cac7c9;
+}
+
+.signup-button:disabled {
+    cursor: not-allowed;
+
+    background-color: white;
+    color: #0F2F70;;
+    border: 3px solid #484848;
+    border-radius: 0.375rem;
+
+
+}
+
+.login-text {
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+    font-size: 1.875rem;
+}
+
+.login-link {
+    background:white ;
+    border-radius: none;
+    border: none;   
+     color: #0F2F70;
+    cursor: pointer;
+    font-weight: 500;
+    padding: 0;
+    margin-left: 0.25rem;
+    font-size: 1.875rem;
+
+}
+
+.login-link:hover {
+    color: #3182ce;
+    text-decoration: underline;
+}
